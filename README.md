@@ -2,8 +2,7 @@
 A social media app similar to Instagram that people can actually use.
 
 ## Available Scripts
-Please note before cloning the project: All functions that are responsible for handling actions like following, liking, commenting, etc.. are exist in Context.js which will not be pushed to the repo until this project gets at least 150 stars. without that file, the app won't work.
-Knowing that, In the project directory, you can run:
+In the project directory, you can run:
 
 ### `npm start`
 
